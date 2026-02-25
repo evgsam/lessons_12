@@ -1,0 +1,10 @@
+.venv
+.vscode
+src/.env
+src/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
